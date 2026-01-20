@@ -16,7 +16,7 @@ Designed mobile-first and enhanced for desktop.
 ## 🔗 Links
 
 - Solution URL: [(https://github.com/fikki008/nft-preview-card.git)]
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: (https://fikki-nft-preview-card.netlify.app/)
 
 ---
 
