@@ -15,7 +15,7 @@ Designed mobile-first and enhanced for desktop.
 
 ## 🔗 Links
 
-- Solution URL: [(https://github.com/fikki008/nft-preview-card.git)]
+- Solution URL: (https://github.com/fikki008/nft-preview-card.git)
 - Live Site URL: (https://fikki-nft-preview-card.netlify.app/)
 
 ---
@@ -33,12 +33,10 @@ Designed mobile-first and enhanced for desktop.
 
 - How to build a **mobile-first responsive layout**  
 - How to create **hover overlay effects** without affecting image sharpness  
-- How to implement **smooth hover transitions**  
-- Proper **BEM-style class naming** for reusable components  
+- How to implement **smooth hover transitions**    
 
 ---
 
 ## 👤 Author
 
-- Frontend Mentor – [@yourusername](https://www.frontendmentor.io/profile/yourusername)  
-- Website – [Add your website link here](https://www.your-site.com)
+- Frontend Mentor – [@fikki008](https://www.frontendmentor.io/profile/fikki008)  
